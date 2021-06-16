@@ -15,7 +15,7 @@ This function should return true if the string is valid, and false if it's inval
         boolean - Returns true if order of parentheses are valid, false otherwise
 		
 **Examples:**
-        -- Input 			Output
+        * Input 			Output
         - "()“				true
         - ")(()))“			false
         - "(“				false
